@@ -1,2 +1,3 @@
 # TMath-Bot
-Unofficial Discord Bot for TMath.vn, a Vietnamese IT E-Learning website based on DMOJ.
+## Giới thiệu
+Xin chào các học viên của trung tâm TMath, mình là Trần Đình Tuyển, nickname là CookieGMVN. Chắc chắn bạn sẽ không biết mình là ai vì mình không học tại trung tâm TMath nhưng thỉnh thoảng mình vẫn tự luyện bằng các bài toán có trên [TMath](https://tmath.vn/) để nâng cao năng lực C++ của bản thân. Bạn có thể tìm thấy profile của mình tại [đây](https://tmath.vn/user/cookiegmvn). Vậy thì, chắc bạn đang thắc mắc, vì sao mình lại làm project nho nhỏ này? Câu trả lời cũng đơn giản thôi. Mình là một bạn trẻ yêu thích lập trình, muốn tìm tòi những cái mới, những cái hay liên quan tới Coding. Qua sự giới thiệu của bạn bè, mình biết tới TMath. Mình bắt đầu tìm hiểu và thấy nó rất hay nên mình bắt đầu đi sâu vào tìm hiểu nó và tìm hiểu về nền tảng DMOJ mà TMath đang dùng.
